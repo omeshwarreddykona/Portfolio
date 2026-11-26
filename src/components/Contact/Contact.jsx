@@ -9,7 +9,7 @@ const contactInfo = [
   { icon: "📧", label: "Email", val: "omeshwarreddy66@gmail.com", href: "mailto:omeshwarreddy66@gmail.com" },
   { icon: "📱", label: "Phone", val: "+91-7569066167", href: "tel:+917569066167" },
   { icon: "📍", label: "Location", val: "Hyderabad, India", href: null },
-  { icon: "💼", label: "LinkedIn", val: "linkedin.com/in/omeshwar-reddy", href: "https://linkedin.com/in/omeshwar-reddy" },
+  { icon: "💼", label: "LinkedIn", val: "https://www.linkedin.com/in/kona-omeshwar-reddy-60a0b72b4/", href: "https://linkedin.com/in/omeshwar-reddy" },
 ];
 
 export default function Contact() {
